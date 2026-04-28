@@ -94,5 +94,5 @@ Modules    : spwm.c / freq.c / tick.c
 
 ## 🤝 交流与贡献
 
-- 有问题欢迎随时在 **Issues / Discussions** 联系我
+- 有问题欢迎随时在 **GitHub Issues / Discussions** 联系我
 - 欢迎提交 **MR/PR**，一起完善项目 🎉
