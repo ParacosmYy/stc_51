@@ -4,7 +4,7 @@
 
 ## ✨ 项目亮点
 
-- **1Hz~20Hz** 频率可调，按键增减
+- **1Hz~20Hz** 频率可调, 按键增减
 - `P3.7` 输出 SPWM 波形，便于示波器观察或后级驱动
 - 两位共阳数码管实时显示当前频率
 - **显示刷新不走中断**，全部在主循环中完成
@@ -94,5 +94,5 @@ Modules    : spwm.c / freq.c / tick.c
 
 ## 🤝 交流与贡献
 
-- 有问题欢迎随时在 **GitHub Issues / Discussions** 联系我
+- 有问题欢迎随时在 GitHub [Issues](https://github.com/ParacosmYy/stc_51/issues) / [Discussions](https://github.com/ParacosmYy/stc_51/discussions) 联系我
 - 欢迎提交 **PR**, 一起完善项目 🎉
